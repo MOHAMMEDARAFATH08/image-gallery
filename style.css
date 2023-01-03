@@ -1,0 +1,22 @@
+.nav-item{
+padding-left: 30px;
+}
+.navbar-nav{
+    margin-left: 80px;
+}
+.navbar-right{
+    margin-left: 50%;
+}
+.rightitems{
+    padding-left: 20px;
+}
+.imagepart{
+    display: flex;
+    flex-direction: row;
+justify-content: center;
+
+}
+.picture{
+    padding: 20px 0px 0px 120px;
+    width: 15vw;
+} 
