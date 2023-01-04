@@ -1,12 +1,14 @@
 .navbar{
     border-radius: 20px;
 }
-
+.nav-item{
+    margin-left: 40px;
+    font-weight: 600;
+}
 .nav-item:hover{
     border: 1px solid white ;
     border-radius: 30px;
     background-color: white;
-   
 }
 .effect:hover{
     color: #2c3e50;
@@ -23,27 +25,37 @@
 .navbar-nav{
     margin-left: 80px;
 }
+
 .navbar-right{
     margin-left: 50%;
 }
 .rightitems{
     padding-left: 20px;
+    font-weight: 600;
+}
+.jumbotron:hover{
+    box-shadow: 10px 5px 10px 5px ;
 }
 .pic{
     padding-right: 5px;
 }
 .jumbotron{
     border-radius: 30px;
+    background-image: url(https://tse1.mm.bing.net/th?id=OIP.7ICeSESn11iQevp1ILwPbgHaE6&pid=Api&P=0);
+    background-repeat:no-repeat;
+    background-size: cover;
 }
 .imagepart{
-   margin-left: 5%;
+   margin-left: 10%;
 }
 .buddha{
     width:350px;
     height:250px;
     margin: 10px 10px 10px 10px ;
-    box-shadow:  0px 30px 30px 0px;
     border-radius: 30px;
+}
+.buddha:hover{
+    box-shadow:  0px 30px 30px 0px;
 }
 .picture{
     padding: 0px 0px 30px 30px ;
