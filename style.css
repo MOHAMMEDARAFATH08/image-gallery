@@ -45,11 +45,11 @@
         height: 200px;
     }
     
-    .imagepart{
+    /*.imagepart{
         margin-top:10px;
         margin-left: 10%;
         width: 80%;
-    }
+    }*/
     a{
         text-decoration: none;
     }
@@ -82,7 +82,7 @@
         margin-left: 10px;
     }
     .words{
-        margin-left: 60px;
+        margin-left: 80px;
         padding-top: 40px;
     }
     .word1{
